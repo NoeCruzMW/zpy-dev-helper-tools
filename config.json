@@ -1,0 +1,21 @@
+{
+  "user": "Noe Cruz",
+  "sender": {
+    "bid": "-",
+    "cid": 610090982
+  },
+  "actions": {
+    "public_ip_request_action": {
+      "execute": true,
+      "sender": true,
+      "data": {
+        "message": "Hola equipo, me ayudan a configurar la sig. ip para conectar a la VPN de dev por favor.",
+        "raw": {
+          "user": "1033552",
+          "ip": ""
+        }
+      }
+    }
+  }
+}
+
